@@ -65,7 +65,7 @@ Creates a new file named `merged.pdf` in the current working directory.
 
 Converts one or more SVG images into a single PDF file, preserving dimensions and colours.
 
-### Example Usage
+### Usage
 
 Edit the python script to specify the SVG files you want to convert and the output PDF file name:
 
